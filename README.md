@@ -15,13 +15,13 @@
 
 
 ```bash
- git clone https://github.com/kenzok8/openwrt-packages.git
+ git clone https://github.com/kannychak/openwrt-packages.git
 ```
 
  2、 或者添加下面代码到 openwrt 或lede源码根目录feeds.conf.default文件
  
 ```bash
- src-git kenzo https://github.com/kenzok8/openwrt-packages
+ src-git kenny https://github.com/kannychak/openwrt-packages
 ```
 
  3、 passwall依赖
@@ -44,12 +44,10 @@
 - luci-app-ssr-plus        ------------------Lean大神 
 - luci-theme-opentomcat    ------------------修复主机名错误（适配18.06）  
 - luci-theme-opentomato    ------------------修复主机名错误（适配18.06）
+
 #### 注意
 
 * Lean大近期修改源码后，主题适配！
-
-
-
 ![暗黄主题](https://raw.githubusercontent.com/kenzok8/openwrt-packages/master/screenshot/sshot-9.jpg)
 ![暗黄主题](https://raw.githubusercontent.com/kenzok8/openwrt-packages/master/screenshot/sshot-10.jpg)
 ![暗黄主题](https://raw.githubusercontent.com/kenzok8/openwrt-packages/master/screenshot/sshot-11.jpg)
